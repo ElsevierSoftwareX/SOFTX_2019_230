@@ -1,0 +1,12 @@
+129b6dd850faa3a43f513d2b321e6086 *DESCRIPTION
+baf9b96b5b90bfaab2e0a1e497b0f1d5 *NAMESPACE
+53b347ff778c11845189ba723dd4c241 *NEWS.md
+62e071c5bcd473a5edc2ebb6ad69ce31 *R/destin.loc.r
+56f68fe403aa87e2c29bfbecb132873a *R/movecost.R
+221eb371f3cc5271cc3bf178f57f64e8 *R/volc.loc.r
+daca3fea437deba780455fd3a9926e35 *README.md
+8272a5aadd2f5c29eadcdd12a2dc441b *data/destin.loc.rda
+53a39759f9674fcb550bf32b9b6f17e5 *data/volc.loc.rda
+c18a63deefa7239633ba53e7ae4371b5 *man/destin.loc.Rd
+16b8914da6af57198d201b12274d95af *man/movecost.Rd
+30d10994660c614e01a5521334e2578a *man/volc.loc.Rd
